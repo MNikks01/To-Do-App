@@ -1,0 +1,1 @@
+name:chess description:no_chess_world_cup remiderDate:9_Jan_2018 creationDate:1740149904332 isCompleted:false
